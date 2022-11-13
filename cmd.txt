@@ -1,0 +1,3 @@
+python main.py --connect [--debug] [--port PORT] 5066
+
+python pdf_scroll_control.py --debug
